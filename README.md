@@ -29,7 +29,7 @@ Output:
 - Prints optimal path found 
 - Seat coordinates + price of seat
 
-Considerations for improving on my implementation:
+Considerations for improving/expanding on my implementation:
 
 - Additional constraints
 - Real time updates
