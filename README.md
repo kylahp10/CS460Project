@@ -1,5 +1,6 @@
 # CS460 Project - Improve Ticket Purchasing System using A* Search Algorithm
 
+*STARTER*
 *STILL NEEDS A LOT OF WORK AND TESTING*
 
 How this algorithm would benefit these ticket systems:
